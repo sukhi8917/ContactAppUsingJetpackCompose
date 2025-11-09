@@ -27,7 +27,7 @@ A simple yet powerful **Contact Management App** built with **Jetpack Compose** 
 | **Architecture** | Clean Architecture (MVVM) |
 | **Database** | Room (SQLite) |
 | **Language** | Kotlin |
-| **Dependency Injection** | Hilt (if used) |
+| **Dependency Injection** | Hilt |
 | **IDE** | Android Studio |
 
 ---
